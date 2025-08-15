@@ -23,7 +23,7 @@ Cada proceso cuenta con:
 
 ## 📥 Instalación
 1. Instalar **Java JDK 17 o superior**  
-   - [Descargar JDK](https://adoptium.net/)
+   
 2. Clonar el repositorio:
    ```bash
   

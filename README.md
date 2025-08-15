@@ -26,5 +26,6 @@ Cada proceso cuenta con:
    
 2. Clonar el repositorio:
    ```bash
+   https://github.com/Amandachali02/Simulador_De_Procesos.git
   
 

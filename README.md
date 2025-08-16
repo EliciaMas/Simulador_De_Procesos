@@ -1,10 +1,10 @@
 # Simulador de Gestión de Procesos en Memoria
 
-## 📌 Descripción
+## 📌 Descripción.
 Este proyecto es un simulador sencillo de gestión de procesos en un sistema operativo con memoria RAM limitada.  
 Permite crear procesos, administrarlos según la memoria disponible, ejecutar varios a la vez y mantener una cola de espera para los que no puedan iniciar inmediatamente.
 
-## ⚙️ Especificaciones
+## ⚙️ Especificaciones.
 - **RAM total:** 1 GB (1024 MB)
 - **Ejecución concurrente:** Sí (múltiples procesos mientras haya memoria)
 - **Cola de espera:** FIFO (primero en entrar, primero en salir)
@@ -16,12 +16,12 @@ Cada proceso cuenta con:
 - **Memoria requerida:** En MB
 - **Duración:** Tiempo de ejecución en segundos
 
-## 🚀 Tecnologías
+## 🚀 Tecnologías.
 - **Lenguaje:** Java 17+
 - **IDE recomendado:** Visual Studio Code o IntelliJ IDEA
 - **Librerías externas:** Ninguna
 
-## 📥 Instalación
+## 📥 Instalación.
 1. Instalar **Java JDK 17 o superior**  
    
 2. Clonar el repositorio:
